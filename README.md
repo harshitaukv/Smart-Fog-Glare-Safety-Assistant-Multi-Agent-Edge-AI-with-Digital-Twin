@@ -1,4 +1,4 @@
-Smart Fog and Glare Safety Assistant with Edge AI and Digital Twin Integration
+Smart Fog & Glare Safety Assistant: Multi-Agent Edge-AI with Digital Twin
 
 Enhancing Road Safety through Vision-Based AI and Real-Time Environment Simulation
 
